@@ -5,7 +5,7 @@
 
 
 ### Live
-Check out the demo site [Disney+ Clone](https://clone-aae80.web.app/)
+Check out the demo site [Disney+ Clone](https://disney-clone-fullstack-next-js-tailwind-css.vercel.app/)
 
 
 ### Built using:
