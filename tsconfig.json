@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "components/ShowThumbnail.js", "components/MoviesCollection.js", "components/MovieThumbnail.js", "components/ShowsCollection.js", "pages/index.js", "components/Header.js", "components/Brands.js", "pages/movie/[id].js", "pages/show/[id].js"],
   "exclude": ["node_modules"]
 }
